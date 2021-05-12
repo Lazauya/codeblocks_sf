@@ -22,3 +22,9 @@ Makefile.in
 /config.guess
 /config.sub
 *.cbTemp
+*.o
+**/.deps/
+**/.dirstamp
+**/.libs/
+*.pc
+/src/src/codeblocks
