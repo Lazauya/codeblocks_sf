@@ -28,3 +28,7 @@ Makefile.in
 **/.libs/
 *.pc
 /src/src/codeblocks
+*.zip
+/src/tools/cb_share_config/cb_share_config
+/src/tools/ConsoleRunner/cb_console_runner
+/src/build_tools/autorevision/auto_revision
